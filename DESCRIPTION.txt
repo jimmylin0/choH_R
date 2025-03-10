@@ -1,0 +1,13 @@
+Package: choH
+Type: Package
+Title: Changepoint Algorithm
+Version: 1.0
+Date: 2025-03-10
+Authors@R: c(person("Daniel","Grose",email="dan.grose@lancaster.ac.uk",role=c("aut","cre")))
+Description: Uses the KS test to detect changepoints 
+License: GPL
+Imports: purrr
+LinkingTo:
+Depends: R (>= 3.5.0)
+NeedsCompilation: no
+Suggests:
